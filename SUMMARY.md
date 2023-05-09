@@ -2,7 +2,8 @@
 
 * [🚀 Getting Started](README.md)
 * [Set-Up](set-up.md)
-* [Why is Move Secure](why-is-move-secure.md)
+* [Why is Move Secure](why-is-move-secure/README.md)
+  * [Move prover](why-is-move-secure/move-prover.md)
 * [Move vs Solidity](move-vs-solidity/README.md)
   * [Resources](move-vs-solidity/resources.md)
   * [Parallel Processing](move-vs-solidity/parallel-processing.md)
