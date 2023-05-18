@@ -189,14 +189,6 @@ module my_addrx::Voting
         let canList = borrow_global<CandidateList>(signer::address_of(&admin));
 
         assert!(canList.winner == @0x2,1);
-
-
-
-
     }
-
-
-
-
 }
 ```
