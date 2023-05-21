@@ -47,6 +47,7 @@
   * [Move coding conventions](advanced-concepts/move-coding-conventions.md)
   * [View functions](advanced-concepts/view-functions.md)
   * [Aptos account](advanced-concepts/aptos-account.md)
+  * [Aptos Coin](advanced-concepts/aptos-account-1.md)
 * [Applications](applications/README.md)
   * [First App](applications/first-app.md)
   * [ToDoList](applications/todolist.md)
