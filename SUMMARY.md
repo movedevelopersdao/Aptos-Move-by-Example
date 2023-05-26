@@ -58,6 +58,7 @@
   * [Company](applications/company.md)
   * [Collection](applications/collection.md)
   * [Football Card](applications/football-card.md)
-  * [Staking](applications/staking.md)
+  * [Staking Module](applications/staking.md)
+  * [MultiSender Wallet](applications/aptos-account.md)
 * [Hacks](hacks/README.md)
   * [Coming soon](hacks/coming-soon.md)
