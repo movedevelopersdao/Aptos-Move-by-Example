@@ -49,6 +49,7 @@
   * [Aptos account](advanced-concepts/aptos-account.md)
   * [Aptos Coin](advanced-concepts/aptos-account-1.md)
   * [Aptos Token(Nft)](advanced-concepts/aptos-account-2.md)
+  * [Object](advanced-concepts/aptos-account-3.md)
 * [Applications](applications/README.md)
   * [First App](applications/first-app.md)
   * [ToDoList](applications/todolist.md)
