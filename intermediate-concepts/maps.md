@@ -26,7 +26,7 @@ module my_addrx::Mapping
     use std::simple_map::{SimpleMap,Self};
     use std::string::{String,utf8};
 
-    fun mapping_in_move()
+    public fun mapping_in_move()
     {
         let mp:SimpleMap<u64,String> = simple_map::create(); //creating an empty map where Key->integer and Value->string.
         
