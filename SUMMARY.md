@@ -61,6 +61,7 @@
   * [Football Card](applications/football-card.md)
   * [Staking Module](applications/staking.md)
   * [MultiSender Wallet](applications/aptos-account.md)
-  * [Auction contract](applications/aptos-account-1.md)
+  * [English Auction](applications/aptos-account-1.md)
+  * [Dutch Auction](applications/aptos-account-2.md)
 * [Hacks](hacks/README.md)
   * [Coming soon](hacks/coming-soon.md)

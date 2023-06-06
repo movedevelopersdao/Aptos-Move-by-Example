@@ -1,4 +1,4 @@
-# Auction contract
+# English Auction
 
 ```rust
 module my_addrx::Auction{ 
@@ -7,8 +7,8 @@ module my_addrx::Auction{
     use 0x1::signer;
     use 0x1::simple_map::{Self, SimpleMap};
     /// Error codes
-    const YOU_ARE_WINNER: u64 = 4;
-    const EINSUFFICIENT_BALANCE: u64 = 5;
+    const YOU_ARE_WINNER: u64 = 1;
+    const EINSUFFICIENT_BALANCE: u64 = 2;
 
     struct BetAddrList has key {
         bet_addr_list: SimpleMap<address, u64>,
