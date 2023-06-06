@@ -1,4 +1,4 @@
-# Copy of MultiSender Wallet
+# Auction contract
 
 ```rust
 module my_addrx::Auction{ 
