@@ -61,5 +61,6 @@
   * [Football Card](applications/football-card.md)
   * [Staking Module](applications/staking.md)
   * [MultiSender Wallet](applications/aptos-account.md)
+  * [Copy of MultiSender Wallet](applications/aptos-account-1.md)
 * [Hacks](hacks/README.md)
   * [Coming soon](hacks/coming-soon.md)
