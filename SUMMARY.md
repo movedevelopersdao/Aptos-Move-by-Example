@@ -63,5 +63,6 @@
   * [MultiSender Wallet](applications/aptos-account.md)
   * [English Auction](applications/aptos-account-1.md)
   * [Dutch Auction](applications/aptos-account-2.md)
+  * [Attendancse Sheet](applications/aptos-account-3.md)
 * [Hacks](hacks/README.md)
   * [Coming soon](hacks/coming-soon.md)
