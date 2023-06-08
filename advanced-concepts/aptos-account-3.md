@@ -39,7 +39,7 @@ module my_addrx::MyFriends
     public entry fun transferring_of_ownership(from: &signer,to: address,obj: Object<MyFriends>) : address
     {
         object::transfer(from,obj,to); //transferring ownership of the object
-        let new_owner_of_the_object = object::owner(obj);
+        let new_owner_of_the_object = object::owner(obj); // ownership is tracked on the object itself
         return new_owner_of_the_object
     }
 
