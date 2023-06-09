@@ -1,4 +1,4 @@
-# Attendancse Sheet
+# Attendance Sheet
 
 ```rust
 module my_addrx::AttendanceSheet{

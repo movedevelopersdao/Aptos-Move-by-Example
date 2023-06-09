@@ -1,7 +1,13 @@
 # English Auction
 
+* The English auction, also known as an open ascending price auction, is a widely recognized auction format.
+* The auction starts with a low initial price and gradually increases as bidders place higher bids.
+* It encourages competition among participants and is commonly used for unique items or high-value goods.
+* The transparent nature of the auction allows bidders to gauge the demand and value of the item, leading to intense bidding wars.
+* The auction format has seamlessly transitioned into the digital era with online platforms, enabling a larger audience to participate.
+
 ```rust
-module my_addrx::Auction{ 
+module my_addrx::English_Auction{ 
 
     use 0x1::vector;
     use 0x1::signer;

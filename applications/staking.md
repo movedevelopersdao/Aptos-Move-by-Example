@@ -1,4 +1,10 @@
-# Staking
+# Staking Module
+
+* Staking contract: Lock up tokens, participate in network.
+* Rewards: Earn additional tokens, gain governance rights.
+* Incentives: Encourage engagement, secure the network.
+* Benefits: Active participation, increased token value.
+* Smart contract: Defines staking rules, ensures transparency.
 
 ```rust
 module my_addrx::BasicTokens{
