@@ -65,5 +65,6 @@
   * [Dutch Auction](applications/aptos-account-2.md)
   * [Attendance Sheet](applications/aptos-account-3.md)
   * [Polling Contract](applications/aptos-account-4.md)
+  * [Lottery Contract](applications/aptos-account-5.md)
 * [Hacks](hacks/README.md)
   * [Coming soon](hacks/coming-soon.md)
