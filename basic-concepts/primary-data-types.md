@@ -3,7 +3,7 @@
 Move supports  three primitive data types : integer, boolean and addresses.
 
 ```
-Integer: u8,u64,u256
+Integer: u8,u64,u128
 Boolean: true,false
 Addresses: address
 ```
