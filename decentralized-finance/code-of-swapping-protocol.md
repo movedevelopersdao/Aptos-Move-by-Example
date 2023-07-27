@@ -1,8 +1,10 @@
 # Code of Swapping Protocol
 
 ```rust
+// Module for implementing a simple swap protocol for generating LP tokens, creating a pool, adding/removing liquidity, and swapping tokens.
 module swap_account::SimplpSwap{
-    
+
+// Import required modules and libraries
     use aptos_framework::coin::{Self,Coin, MintCapability, BurnCapability};
     use std::string;
     use std::string::String;
@@ -10,11 +12,14 @@ module swap_account::SimplpSwap{
     use swap_account::Math::{sqrt,min};
     use std::signer::address_of;
     use swap_account::Math;
-
+    
+    // Constant for minimum liquidity required in LP tokens
     const MINIMUM_LIQUIDITY: u64 = 1000;
-
+    
+    // Define a phantom struct LP with generic types X and Y to represent LP tokens for token pair X-Y
     struct LP<phantom X,phantom Y>{}
 
+    // Define a struct Pair with generic types X and Y representing a token pair with its related data
     struct Pair<phantom X, phantom Y> has key{
         x_coin:Coin<X>,
         y_coin:Coin<Y>,
