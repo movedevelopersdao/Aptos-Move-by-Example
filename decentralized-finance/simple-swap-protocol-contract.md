@@ -62,5 +62,3 @@ The Simple Swap Protocol contract implements a basic swap protocol for generatin
 **`get_coin<X, Y>() -> (u64, u64) acquires Pair`**
 
 * Returns the current reserves of token X and Y in the liquidity pool.
-
-This structured heading information should help your viewers better understand the contract and its functionalities in your Gitbook. Feel free to use and modify it as needed!

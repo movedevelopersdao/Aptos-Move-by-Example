@@ -69,5 +69,6 @@
   * [Lottery Contract](applications/aptos-account-5.md)
 * [Decentralized Finance](decentralized-finance/README.md)
   * [Simple Swap Protocol Contract](decentralized-finance/simple-swap-protocol-contract.md)
+  * [Code of Swapping Protocol](decentralized-finance/code-of-swapping-protocol.md)
 * [Hacks](hacks/README.md)
   * [Coming soon](hacks/coming-soon.md)
