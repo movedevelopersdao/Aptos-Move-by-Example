@@ -41,7 +41,7 @@ The Indexer Wallet API is divided into 3 categories:
 
 Examples can be found on a wallet page like [this one](https://indexer.xyz/aptos/0x8afb40b62a4f6db8f2a3dc0674ff01262acbe5714707101aee80d8af1e60a0df?tab=profit/loss) and queries tested for free in [the explorer](https://indexer.xyz/api-explorer) on indexer.xyz!
 
-**React implementaion**
+**React implementation**
 
 We're going to create a React app that retrieves and shows information from the Aptos NFT marketplace. This data will be fetched using a GraphQL API offered by Indexer.xyz.
 
@@ -76,8 +76,8 @@ const fetchQuery = (marketName) => {
     return fetch('https://api.indexer.xyz/graphql', {
       method: 'POST',
       headers: {
-        "x-api-user": "YOUR-USERNAME",
-        "x-api-key": "YOUR-API-KEY",
+        "x-api-user": "-YOUR-USERNAME-",
+        "x-api-key": "-YOUR-API-KEY-",
         "apikey_type": "prod",
         "role": "prod-user",
         "host_name": "api.indexer.xyz",
