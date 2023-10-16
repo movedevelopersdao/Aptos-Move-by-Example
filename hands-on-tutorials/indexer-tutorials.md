@@ -39,11 +39,32 @@ The Indexer Wallet API is divided into 3 categories:
 2. _wallet\_holdings_ - Unrealized performance of each NFT held by a wallet
 3. _wallet\_trades_ - Realized performance on each NFT a wallet has sold
 
-All examples shown can be found on a wallet page like [this one](https://indexer.xyz/aptos/0x8afb40b62a4f6db8f2a3dc0674ff01262acbe5714707101aee80d8af1e60a0df?tab=profit/loss) and queries tested for free in [the explorer](https://indexer.xyz/api-explorer) on indexer.xyz!
+Examples can be found on a wallet page like [this one](https://indexer.xyz/aptos/0x8afb40b62a4f6db8f2a3dc0674ff01262acbe5714707101aee80d8af1e60a0df?tab=profit/loss) and queries tested for free in [the explorer](https://indexer.xyz/api-explorer) on indexer.xyz!
 
 **React implementaion**
 
 We're going to create a React app that retrieves and shows information from the Aptos NFT marketplace. This data will be fetched using a GraphQL API offered by Indexer.xyz.
+
+* Setting up the project:\
+  Firstly, create a new React application using the create-react-app command:\
+  `npx create-react-app market-data-visualization`
+
+\
+
+
+
+
+\
+
+
+
+
+
+
+
+
+\
+
 
 
 
