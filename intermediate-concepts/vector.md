@@ -8,10 +8,7 @@ A `vector<T>` can be instantiated with any type `T`. For example, `vector<u64>`,
 
 Vectors of any type can be created with `vector` literals.
 
-| Syntax               | Type                                                                                                                                                                                             | Description                                |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
-| vector\[]            | <table data-header-hidden><thead><tr><th></th></tr></thead><tbody><tr><td><code>vector[]: vector&#x3C;T></code> where <code>T</code> is any single, non-reference type</td></tr></tbody></table> | An empty vector                            |
-| vector\[e1, ..., en] | `vector[e1, ..., en]: vector<T>` where `e_i: T` s.t. `0 < i <= n` and `n > 0`                                                                                                                    | A vector with `n` elements (of length `n`) |
+<table><thead><tr><th width="179.33333333333331">Syntax</th><th width="345">Type </th><th>Description</th></tr></thead><tbody><tr><td>vector[]</td><td><table data-header-hidden><thead><tr><th></th></tr></thead><tbody><tr><td><code>vector[]: vector&#x3C;T></code> where <code>T</code> is any single, non-reference type</td></tr></tbody></table></td><td>An empty vector</td></tr><tr><td>vector[e1, ..., en]</td><td><code>vector[e1, ..., en]: vector&#x3C;T></code> where <code>e_i: T</code> s.t. <code>0 &#x3C; i &#x3C;= n</code> and <code>n > 0</code></td><td>A vector with <code>n</code> elements (of length <code>n</code>)</td></tr></tbody></table>
 
 
 
