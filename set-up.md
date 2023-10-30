@@ -72,5 +72,5 @@ Run `aptos move compile` in vscode terminal for compiling the module.
 Run `aptos move test` in vscode terminal for running the unit test.
 
 {% hint style="info" %}
-Check [this out](https://aptos.dev/cli-tools/aptos-cli-tool/use-aptos-cli/) for more information on Aptos CLI.
+Check [this out](https://aptos.dev/tools/aptos-cli/use-cli/use-aptos-cli) for more information on Aptos CLI.
 {% endhint %}
