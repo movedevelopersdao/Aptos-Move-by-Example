@@ -49,4 +49,4 @@ module my_addrx::MyResource
 
 **Ownership:**
 
-Unlike simple scalar values, `signer` values are not copyable, meaning they cannot be copied(from any operation whether it be through an explicit `copy` instruction or through a `dereference *`.
+Unlike simple scalar values, `signer` values are not copyable, meaning they cannot be copied(from any operation whether it be through an explicit `copy` instruction or through a `dereference *`).

@@ -64,7 +64,7 @@ let x = 7;
 let y: &u64 = &mut x;
 ```
 
-This works because the under the hood, the compiler inserts `freeze` instructions where they are needed.
+This works because under the hood, the compiler inserts `freeze` instructions where they are needed.
 
 More examples of freeze inference in action:
 
